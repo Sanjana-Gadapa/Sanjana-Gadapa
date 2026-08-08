@@ -1,100 +1,101 @@
-# Hi, I'm Sanjana 👋
+# Hi there 👋, I'm Sanjana Gadapa
 
-### AWS & DevOps Engineer | Cloud Enthusiast | Automation & CI/CD
-
-I'm passionate about **AWS, DevOps, cloud computing, automation, CI/CD, and containerization**. I enjoy building reliable cloud infrastructure, automating deployment workflows, and continuously learning new technologies.
+☁️ **MCA graduate** passionate about AWS, DevOps, Cloud Computing, Automation, and CI/CD.
 
 ---
 
 ## 🚀 About Me
 
-- ☁️ Interested in **AWS Cloud & DevOps**
-- 🔄 Passionate about **CI/CD and deployment automation**
-- 🐳 Interested in **Docker & Kubernetes**
-- 🏗️ Experience with **Infrastructure as Code using Terraform and Ansible**
-- 📊 Familiar with **monitoring using Prometheus & Grafana**
-- 🎯 Currently looking for opportunities to grow as an **AWS/DevOps Engineer**
+- ☁️ Skilled in **AWS Cloud and Cloud Infrastructure**
+- ⚙️ Hands-on with **DevOps, CI/CD, Jenkins, Git, and Maven**
+- 🐳 Experienced with **Docker, Docker Compose, and Kubernetes**
+- 🏗️ Familiar with **Terraform and Ansible** for Infrastructure as Code
+- 📊 Interested in **Cloud Automation, Monitoring, and Scalable Infrastructure**
+- 🌱 Continuously learning and exploring **AWS & DevOps technologies**
+- 🎯 Looking for opportunities to grow as an **AWS / DevOps Engineer**
 
 ---
 
-## 🛠️ Tech Stack
+## 📂 Featured Projects
 
-### ☁️ Cloud & AWS
-`AWS` `EC2` `VPC` `ALB` `Auto Scaling` `S3` `RDS` `IAM` `Route 53` `CloudWatch` `CloudTrail` `Lambda` `CloudFront` `AWS CLI` `CloudFormation` `Elastic Beanstalk`
+- **3-Tier Architecture using AWS** – Designed and implemented a highly available and scalable three-tier architecture using **EC2, Application Load Balancer, Auto Scaling, and Amazon RDS Multi-AZ**.
+
+- **Deployment to Tomcat Server using Jenkins Pipeline** – Automated application deployment using a **Jenkins CI/CD pipeline**, integrated **SonarQube** for code quality analysis, and deployed the application to Tomcat.
+
+- **Web Application Deployment using Docker** – Created a **Dockerfile** for a Tomcat web application and used **Docker Compose** to manage the application and database containers.
+
+- **AWS Transit Gateway using Terraform** – Created an AWS Transit Gateway using **Terraform**, utilizing provider, resource, variable, and output blocks.
+
+- **Pet Clinic Web App on AWS EKS** – Deployed a web application on **Amazon EKS (Elastic Kubernetes Service)**.
+
+---
+
+## 🏅 Certifications
+
+- ☁️ **Cloud Virtual Internship** – Edu Skills
+- ⚙️ **DevOps with AWS** – Course Completion Certificate
+- ☕ **Basics of Java** – CodeStudio
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### ☁️ AWS
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### ⚙️ DevOps & CI/CD
-`Git` `GitHub` `Maven` `Jenkins` `CI/CD` `Tomcat` `SonarQube` `Nexus`
 
-### 🐳 Containers & Orchestration
-`Docker` `Docker Compose` `Kubernetes` `Amazon EKS`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+
+### 🐳 Containers & Kubernetes
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
 
 ### 🏗️ Infrastructure as Code
-`Terraform` `Ansible`
 
-### 📈 Monitoring
-`Prometheus` `Grafana`
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
----
+### 📊 Monitoring
 
-## 📌 Featured Projects
-
-### ☁️ 3-Tier Architecture Using AWS
-Designed and implemented a highly available and scalable three-tier architecture on AWS using:
-
-- Amazon EC2
-- Application Load Balancer
-- EC2 Auto Scaling
-- Amazon RDS Multi-AZ
-
-The architecture focused on **high availability, fault tolerance, scalability, and reliability**.
-
-### 🔄 Tomcat Deployment Using Jenkins Pipeline
-- Integrated source-code quality analysis using **SonarQube**
-- Automated application deployment using a **Jenkins CI/CD pipeline**
-- Deployed applications to **Apache Tomcat**
-
-### 🐳 Web Application Deployment Using Docker
-- Created a **Dockerfile** for a Tomcat-based web application
-- Used **Docker Compose** to manage the application and database containers
-- Implemented a multi-container deployment setup
-
-### 🏗️ AWS Transit Gateway Using Terraform
-Created an AWS Transit Gateway using Terraform with reusable Terraform blocks including:
-
-- Provider
-- Resource
-- Variable
-- Output
-
-### ☸️ Pet Clinic Web App on Amazon EKS
-Deployed a web application on **Amazon EKS (Elastic Kubernetes Service)** to gain hands-on experience with Kubernetes on AWS.
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats
 
-**Master of Computer Applications (MCA)**  
-Anurag University — CGPA: **8.6**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjana-Gadapa&show_icons=true&theme=tokyonight" alt="Sanjana's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-Gadapa&theme=tokyonight" alt="Sanjana's GitHub Streak" width="48%"/>
+</p>
 
-**Bachelor of Science (B.Sc)**  
-Osmania University — Mathematics, Statistics and Computer Science — CGPA: **8.8**
-
----
-
-## 📜 Certifications
-
-- Cloud Virtual Internship — Edu Skills
-- DevOps with AWS — Course Completion Certificate
-- Basics of Java — CodeStudio
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-Gadapa&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect with Me
 
-📧 **Email:** sanjanagadapa444@gmail.com
+📫 Email: **sanjanagadapa444@gmail.com**
 
-I'm always interested in connecting with people working in **AWS, DevOps, Cloud Engineering, and Automation**.
+🔗 [GitHub](https://github.com/Sanjana-Gadapa)
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+✨ Always learning, building, automating, and exploring the world of **AWS & DevOps**!
